@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/a2zcrypto-app/static/css/main.29f6b7b9.css",
+    "main.js": "/a2zcrypto-app/static/js/main.439a5e6c.js",
+    "index.html": "/a2zcrypto-app/index.html",
+    "main.29f6b7b9.css.map": "/a2zcrypto-app/static/css/main.29f6b7b9.css.map",
+    "main.439a5e6c.js.map": "/a2zcrypto-app/static/js/main.439a5e6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29f6b7b9.css",
+    "static/js/main.439a5e6c.js"
+  ]
+}
