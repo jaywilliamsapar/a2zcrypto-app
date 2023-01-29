@@ -1,0 +1,25 @@
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    font-size: 3rem;
+    color: rgb(35, 215, 191);
+    margin-right: 0px;
+}
+
+.purple {
+    color: rgb(35, 215, 191);
+}
+
+h1 {
+    color: rgb(222, 194, 37);
+}
+
+p {
+    color: rgb(235, 157, 31);
+}
+
